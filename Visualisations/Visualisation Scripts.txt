@@ -1,0 +1,12 @@
+Frequency vs Monetary Spending
+
+select id,count(date) as freq,sum(purchaseamount) as total_spent from df_table group by id order by freq desc
+
+———————
+Category Frequency vs Gross Share
+
+select category,count(1) as freq,sum(purchaseamount) from df_table group by category order by freq desc
+
+———————
+
+

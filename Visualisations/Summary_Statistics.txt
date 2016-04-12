@@ -1,0 +1,27 @@
+TOTAL_PURCHASE_AMT_BY_CUSTOMER
+min   -371.6
+25%    150.8
+50%    307.8
+75%    538.2
+max    3982989.2
+
+INDIVIDUAL_TRANSACTION_AMOUNT
+
+min    5.3
+std    9.0
+min   -885.0
+25%    2.5
+50%    3.8
+75%    5.9
+max    20728.7
+
+
+Purchase Quantity
+
+min   -27.0
+25%    1.0
+50%    1.0
+75%    2.0
+max    11845.0
+
+
